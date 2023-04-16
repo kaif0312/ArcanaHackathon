@@ -17,35 +17,5 @@ Alby Jenson
  Also I have done sentiment analysis using finBERT, that classifies each of the sentences from a given transcript to categories. This helps the investor to glance through the important parts of the transcript.
  
 Modern Portfolio Theory, or MPT (also known as mean-variance analysis), is a mathematical framework for constructing a portfolio of assets to maximize expected return for a given level of market risk (Standard Deviation of Portfolio Returns). Since risk is associated with variability in profit, we can quantify it using measures of dispersion such as variance and standard deviation.
-We used MPT to model optimal portfolio, based on the given 8 companies.
+We used MPT to model optimal portfolio, based on the given 8 companies. This is done by calculating the covariance between each companies, as the rule of MPT is to have as diverse as possible, we need stocks to have the lower covariance for better returns.
 
-**Previous Experience**:
-
-Electronics Club Project Member CFI
-
-
-**Current PORS**:
-
-None
-
-**Why I want to work in the team** :
-
-I was always fascinated by automated technology. Self driving vehicles is one of them. I am very much excited by the projects and the vision you guys have for Abhiyaan. Hence I want to be a part of the future that you people are creating. 
-
-**Relevant Courses**
-
-*In institute*
-
-MA2040 Probability and Statistics
-
-1
-
-*Online*
-
-[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/5948a61ef7f22c4596dfbfc9ec9a21e0)
-
-[Neural Networks and Deep Learning](https://coursera.org/share/1363ba96a2aec24a48719b7fa19f3dca)
-
-**Please note that all my videos and photos have been saved to each of their respective folders**
-**Please go through the Q.md files in my questions folder for explanation of each of my work**
-Peace
