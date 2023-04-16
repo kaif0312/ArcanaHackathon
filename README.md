@@ -10,6 +10,7 @@ Alby Jenson
 
 
 Link to notion: https://boom-windflower-ea8.notion.site/e568c29f051b4a2da4795f89e1dde8f4?v=be17bbd2e23644118d8e28d12f9b0c61
+
  **IMPORTANT!!!!**
  We have attatched a notion file, that contains the work done by each member, and the work that was in progress but never came to be. 
  The files in this github repo consists of the jupyter notebook files that I used to do the analytics work of the project. You can see the outputs in it. 
